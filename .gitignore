@@ -1,0 +1,12 @@
+env/
+__pycache__/
+*.pt
+*.pth
+*.ckpt
+*.png
+*.jpg
+*.zip
+.ipynb_checkpoints/
+data/
+results/
+*.log
