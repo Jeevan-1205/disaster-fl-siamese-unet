@@ -132,7 +132,7 @@ os.makedirs(
 
 torch.save(
     model.state_dict(),
-    f"{SAVE_DIR}/xbd_real.pt"
+    f"{SAVE_DIR}/xbd_real_v2.pt"
 )
 
 print("saved")
